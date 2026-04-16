@@ -1,6 +1,3 @@
 class B {
-  void testb(){
-    
-  }
-    
+    int x = 5;
 }
