@@ -1,5 +1,5 @@
 class A {
-  void test(){
-    system.out.println("hello");
-  }
+    void test(){
+        System.out.println("hello");
+    }
 }
