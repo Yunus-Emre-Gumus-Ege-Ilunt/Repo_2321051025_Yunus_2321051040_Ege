@@ -1,3 +1,5 @@
 class B {
-    int x = 5;
+    void testb(){
+    }
+    
 }
