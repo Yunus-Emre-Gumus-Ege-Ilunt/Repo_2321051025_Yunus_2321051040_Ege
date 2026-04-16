@@ -1,2 +1,6 @@
 class B {
+  void testb(){
+    
+  }
+    
 }
